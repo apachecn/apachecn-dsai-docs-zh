@@ -1,0 +1,17 @@
++   介绍
+    +   [快速入门](support.md)
+    +   [备忘单](cheatsheet.md)
+    +   [选项列表](options.md)
++   教程
+    +   [157种语言的词向量](crawl-vectors.md)
+    +   [数据集](dataset.md)
+    +   [英文单词向量](english-vectors.md)
+    +   [语言识别](language-identification.md)
+    +   [维基词向量](pretrained-vectors.md)
+    +   [监督模型](supervised-models.md)
+    +   [文本分类](supervised-tutorial.md)
+    +   [词语表达](unsupervised-tutorials.md)
++   帮助
+    +   [常问问题](faqs.md)
+    +   [API](api.md)
+    +   [参考](references.md)
